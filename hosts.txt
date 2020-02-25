@@ -8939,6 +8939,10 @@
 0.0.0.0 r6.sn-vgqskn7z.googlevideo.com
 0.0.0.0 r18---sn-o097znes.googlevideo.com
 0.0.0.0 r4---sn-n4v7sn7s.googlevideo.com
+0.0.0.0 r4---sn-qxo7rn7l.googlevideo.com
+0.0.0.0 r5---sn-q4flrnle.googlevideo.com
+0.0.0.0 r5---sn-qxo7rn7l.googlevideo.com
+0.0.0.0 r6---sn-qxo7rn7s.googlevideo.com
 
 
 # IPv6 GOOGLE AD ADDRESSES
@@ -17869,3 +17873,7 @@
 :: r6.sn-vgqskn7z.googlevideo.com
 :: r18---sn-o097znes.googlevideo.com
 :: r4---sn-n4v7sn7s.googlevideo.com
+:: r4---sn-qxo7rn7l.googlevideo.com
+:: r5---sn-q4flrnle.googlevideo.com
+:: r5---sn-qxo7rn7l.googlevideo.com
+:: r6---sn-qxo7rn7s.googlevideo.com
