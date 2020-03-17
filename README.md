@@ -1,2 +1,3 @@
-# GoogleAdsBlacklist
-Blocks Google ads (including YouTube ads) specifically. It supports both IPv4 and IPv6 addresses via hosts.
+# GoogleAdsBlacklist [Abandoned]
+Proabably blocks some ads but I just reccomend using the blocklist here: 
+https://github.com/kboghdady/youTube_ads_4_pi-hole
