@@ -1,2 +1,1 @@
 216.239.38.120     www.google.com     #forcesafesearch
-216.239.38.120     www.tplinkwifi.com
